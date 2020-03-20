@@ -1,0 +1,11 @@
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\bin\Debug\netcoreapp3.1\TryCachFichero.exe
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\bin\Debug\netcoreapp3.1\TryCachFichero.deps.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\bin\Debug\netcoreapp3.1\TryCachFichero.runtimeconfig.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\bin\Debug\netcoreapp3.1\TryCachFichero.runtimeconfig.dev.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\bin\Debug\netcoreapp3.1\TryCachFichero.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\bin\Debug\netcoreapp3.1\TryCachFichero.pdb
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\obj\Debug\netcoreapp3.1\TryCachFichero.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\obj\Debug\netcoreapp3.1\TryCachFichero.AssemblyInfoInputs.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\obj\Debug\netcoreapp3.1\TryCachFichero.AssemblyInfo.cs
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\obj\Debug\netcoreapp3.1\TryCachFichero.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\TryCachFichero\obj\Debug\netcoreapp3.1\TryCachFichero.pdb

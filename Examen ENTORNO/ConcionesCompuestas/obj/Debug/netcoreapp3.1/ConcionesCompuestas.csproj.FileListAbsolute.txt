@@ -1,0 +1,11 @@
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\bin\Debug\netcoreapp3.1\ConcionesCompuestas.exe
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\bin\Debug\netcoreapp3.1\ConcionesCompuestas.deps.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\bin\Debug\netcoreapp3.1\ConcionesCompuestas.runtimeconfig.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\bin\Debug\netcoreapp3.1\ConcionesCompuestas.runtimeconfig.dev.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\bin\Debug\netcoreapp3.1\ConcionesCompuestas.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\bin\Debug\netcoreapp3.1\ConcionesCompuestas.pdb
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\obj\Debug\netcoreapp3.1\ConcionesCompuestas.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\obj\Debug\netcoreapp3.1\ConcionesCompuestas.AssemblyInfoInputs.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\obj\Debug\netcoreapp3.1\ConcionesCompuestas.AssemblyInfo.cs
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\obj\Debug\netcoreapp3.1\ConcionesCompuestas.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\ConcionesCompuestas\obj\Debug\netcoreapp3.1\ConcionesCompuestas.pdb

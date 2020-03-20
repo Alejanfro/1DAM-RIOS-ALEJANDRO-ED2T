@@ -1,0 +1,3 @@
+C:\Users\Salvador\Desktop\obj\Debug\netcoreapp3.1\CondicionesCompuestas.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\obj\Debug\netcoreapp3.1\CondicionesCompuestas.AssemblyInfoInputs.cache
+C:\Users\Salvador\Desktop\obj\Debug\netcoreapp3.1\CondicionesCompuestas.AssemblyInfo.cs

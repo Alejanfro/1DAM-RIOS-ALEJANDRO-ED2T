@@ -1,0 +1,11 @@
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\bin\Debug\netcoreapp3.1\PintandoPorConsola.exe
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\bin\Debug\netcoreapp3.1\PintandoPorConsola.deps.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\bin\Debug\netcoreapp3.1\PintandoPorConsola.runtimeconfig.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\bin\Debug\netcoreapp3.1\PintandoPorConsola.runtimeconfig.dev.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\bin\Debug\netcoreapp3.1\PintandoPorConsola.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\bin\Debug\netcoreapp3.1\PintandoPorConsola.pdb
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\obj\Debug\netcoreapp3.1\PintandoPorConsola.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\obj\Debug\netcoreapp3.1\PintandoPorConsola.AssemblyInfoInputs.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\obj\Debug\netcoreapp3.1\PintandoPorConsola.AssemblyInfo.cs
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\obj\Debug\netcoreapp3.1\PintandoPorConsola.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\PintandoPorConsola\obj\Debug\netcoreapp3.1\PintandoPorConsola.pdb

@@ -1,0 +1,11 @@
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\bin\Debug\netcoreapp3.1\MatematicasConCSharp.exe
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\bin\Debug\netcoreapp3.1\MatematicasConCSharp.deps.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\bin\Debug\netcoreapp3.1\MatematicasConCSharp.runtimeconfig.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\bin\Debug\netcoreapp3.1\MatematicasConCSharp.runtimeconfig.dev.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\bin\Debug\netcoreapp3.1\MatematicasConCSharp.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\bin\Debug\netcoreapp3.1\MatematicasConCSharp.pdb
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\obj\Debug\netcoreapp3.1\MatematicasConCSharp.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\obj\Debug\netcoreapp3.1\MatematicasConCSharp.AssemblyInfoInputs.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\obj\Debug\netcoreapp3.1\MatematicasConCSharp.AssemblyInfo.cs
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\obj\Debug\netcoreapp3.1\MatematicasConCSharp.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\MatematicasConCSharp\obj\Debug\netcoreapp3.1\MatematicasConCSharp.pdb

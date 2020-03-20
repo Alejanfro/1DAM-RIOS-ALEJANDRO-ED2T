@@ -1,0 +1,11 @@
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\bin\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.exe
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\bin\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.deps.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\bin\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.runtimeconfig.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\bin\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.runtimeconfig.dev.json
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\bin\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\bin\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.pdb
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\obj\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.csprojAssemblyReference.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\obj\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.AssemblyInfoInputs.cache
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\obj\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.AssemblyInfo.cs
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\obj\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.dll
+C:\Users\Salvador\Desktop\Examen ENTORNO\EjercicioConEstructurasDeControl\obj\Debug\netcoreapp3.1\EjercicioConEstructurasDeControl.pdb
